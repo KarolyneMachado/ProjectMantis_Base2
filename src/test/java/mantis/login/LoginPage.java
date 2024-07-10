@@ -1,5 +1,6 @@
 package mantis.login;
 
+import mantis.create.task.TaskPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -38,8 +39,10 @@ public class LoginPage {
         passwordField.sendKeys(password);
     }
 
-    public void loginIn() {
-        driver.findElement(By.xpath("//input[@value='Entrar']")).submit(); }
+    public TaskPage loginIn() {
+        driver.findElement(By.xpath("//input[@value='Entrar']")).submit();
+        return new TaskPage(driver);
+    }
 
     public boolean accessFailed() {
         return driver.getCurrentUrl().contains(URL_LOGIN);
