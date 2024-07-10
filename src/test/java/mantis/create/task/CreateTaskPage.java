@@ -1,5 +1,6 @@
 package mantis.create.task;
 
+import mantis.PageObject;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,9 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 
 
-public class CreateTaskPage {
-
-    private WebDriver driver;
+public class CreateTaskPage extends PageObject {
 
     private static final String URL_CREATE_TASK = "https://mantis-prova.base2.com.br/bug_report_page.php";
     private static final String URL_CREATE_TASK_ERROR = "https://mantis-prova.base2.com.br/bug_report.php?posted=1";
@@ -17,7 +16,7 @@ public class CreateTaskPage {
 
 
     public CreateTaskPage(WebDriver driver){
-        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
+        super(driver);
         this.driver = driver;
     }
 
@@ -47,4 +46,3 @@ public class CreateTaskPage {
         return driver.getCurrentUrl().equals(URL_CREATE_TASK);
     }
 }
-

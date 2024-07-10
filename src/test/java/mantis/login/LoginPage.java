@@ -1,5 +1,6 @@
 package mantis.login;
 
+import mantis.PageObject;
 import mantis.create.task.TaskPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,20 +10,14 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class LoginPage {
+public class LoginPage extends PageObject {
 
     private static final String URL_LOGIN = "https://mantis-prova.base2.com.br/login_page.php";
     private static final String MENSAGE_FAIL = "Sua conta pode estar desativada ou bloqueada ou o nome de usuário e a senha que você digitou não estão corretos.";
-    private WebDriver driver;
 
     public LoginPage(){
-        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
-        this.driver = new ChromeDriver();
+        super(null);
         driver.get(URL_LOGIN);
-    }
-
-    public void close() {
-        this.driver.quit();
     }
 
     public void fillInUser(String username) {
