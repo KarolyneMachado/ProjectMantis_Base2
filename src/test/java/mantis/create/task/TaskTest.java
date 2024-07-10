@@ -2,11 +2,14 @@ package mantis.create.task;
 
 import mantis.login.LoginPage;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import org.junit.jupiter.api.AfterEach;
 import org.testng.Assert;
+import io.qameta.allure.Description;
+import io.qameta.allure.Step;
 
 
 public class TaskTest {
@@ -27,6 +30,8 @@ public class TaskTest {
     }
 
     @Test
+    @DisplayName("Teste criar task BUG'")
+    @Description("Teste para verificar funcionalidade de criação de bug")
     public void newRegistrationTaskValid(){
         LocalDateTime dateTime = LocalDateTime.now();
         String today = dateTime.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));

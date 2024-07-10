@@ -1,9 +1,13 @@
 package mantis.login;
 
+import io.qameta.allure.Description;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
+import io.qameta.allure.Description;
+import io.qameta.allure.Step;
 
 public class LoginTest {
 
@@ -20,6 +24,8 @@ public class LoginTest {
     }
 
     @Test
+    @DisplayName("Teste Login valido")
+    @Description("Teste para verificar funcionamento login")
     public void LoginValid() {
         pageOfLogin.fillInUser("Karolyne_Silva");
         pageOfLogin.enter();
@@ -30,6 +36,8 @@ public class LoginTest {
     }
 
     @Test
+    @DisplayName("Teste Login com credencias invalido")
+    @Description("Teste para verificar seguranca")
     public void LoginInvalid() {
         pageOfLogin.fillInUser("USER_INVALID");
         pageOfLogin.enter();
