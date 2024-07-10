@@ -26,13 +26,6 @@ public class TaskTest {
         this.pageOfCreate = pageOfTask.loadForm();
     }
 
-
-    @AfterEach
-    public void afterEach() {
-        this.pageOfTask.close();
-
-    }
-
     @Test
     public void newRegistrationTaskValid(){
         LocalDateTime dateTime = LocalDateTime.now();
