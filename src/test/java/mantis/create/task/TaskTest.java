@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import org.junit.jupiter.api.AfterEach;
-import org.testng.Assert;
-
 
 public class TaskTest {
 
@@ -19,7 +17,7 @@ public class TaskTest {
         LoginPage pageOfLogin = new LoginPage();
         pageOfLogin.fillInUser("Karolyne_Silva");
         pageOfLogin.enter();
-        pageOfLogin.fillInPassword("Kmsfs@2306");
+        pageOfLogin.fillInPassword("password12");
         this.pageOfTask = pageOfLogin.loginIn();
         CreateTaskPage pageOfCreate = pageOfTask.loadForm();
 

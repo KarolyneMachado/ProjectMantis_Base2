@@ -24,4 +24,3 @@ public class TaskPage extends PageObject {
         return new CreateTaskPage(driver);
     }
 }
-

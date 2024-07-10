@@ -23,7 +23,7 @@ public class LoginTest {
     public void LoginValid() {
         pageOfLogin.fillInUser("Karolyne_Silva");
         pageOfLogin.enter();
-        pageOfLogin.fillInPassword("Kmsfs@2306");
+        pageOfLogin.fillInPassword("password12");
         pageOfLogin.loginIn();
 
         Assert.assertTrue(pageOfLogin.sucessfulLogin());
