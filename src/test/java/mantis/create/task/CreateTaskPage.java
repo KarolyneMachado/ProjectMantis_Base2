@@ -20,10 +20,6 @@ public class CreateTaskPage extends PageObject {
         this.driver = driver;
     }
 
-    public void close() {
-        this.driver.quit();
-    }
-
     public TaskPage createTask(String resume, String description, String today, String steps){
 
         WebElement selectElement = driver.findElement(By.id("category_id"));
