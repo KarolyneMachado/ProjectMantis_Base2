@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92c0d3f7-94da-4aeb-8496-655c5e0f7c92-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94eb1b91-0d65-4a74-b9c9-15de65da8d5b-result.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KarolyneMachado&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:KarolyneMachado/ProjectMantis_Base2.git&quot;,
+    &quot;accountId&quot;: &quot;fd030024-8127-4950-92a2-cf055b57ba38&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j04EBudrnndla9nsm0eFDMUKMg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.CreatedBugTest.LoginValid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTaskTest.CreatedTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTaskTest.LoginValid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTaskTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrudTaskTest.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantis.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.LoginBackground.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.LoginInvalid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.LoginValid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.NotAutentication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.NotAuthentication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginMantisTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.LoginInvalid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.LoginValid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskTest.createTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskTest.newRegistrationTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskTest.newRegistrationTaskInvalid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskTest.newRegistrationTaskValid.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.LoginMantisTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReportissueTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2/src/test/java/mantis/prova/base2/com/br&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="mantis.login.task" />
+      <recent name="mantis.prova.base2.com.br" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="mantis.prova.base2.com.br.LoginMantisTest" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="mantis.prova.base2.com.br" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="mantis.prova.base2.com.br" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mantis.login" />
+      <recent name="mantis.create.task" />
+      <recent name="mantis.login.task" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginMantisTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-21" />
+      <option name="PACKAGE_NAME" value="mantis.prova.base2.com.br.login" />
+      <option name="MAIN_CLASS_NAME" value="mantis.prova.base2.com.br.login.LoginMantisTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mantis.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mantis.login" />
+      <option name="MAIN_CLASS_NAME" value="mantis.login.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.LoginValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mantis.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mantis.login" />
+      <option name="MAIN_CLASS_NAME" value="mantis.login.LoginTest" />
+      <option name="METHOD_NAME" value="LoginValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mantis.create.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mantis.create.task" />
+      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.newRegistrationTaskInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mantis.create.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mantis.create.task" />
+      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTest" />
+      <option name="METHOD_NAME" value="newRegistrationTaskInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.newRegistrationTaskValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectMantis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mantis.create.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mantis.create.task" />
+      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTest" />
+      <option name="METHOD_NAME" value="newRegistrationTaskValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.LoginValid" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.TaskTest" />
+        <item itemvalue="JUnit.TaskTest.newRegistrationTaskInvalid" />
+        <item itemvalue="JUnit.TaskTest.newRegistrationTaskValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="" />
+      <created>1720510546220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720510546220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="minha-feature" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -21,4 +21,8 @@ public class PageObject {
         this.driver.quit();
     }
 
+<<<<<<< feature-new-03
 }
+=======
+}
+>>>>>>> main
