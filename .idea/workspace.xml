@@ -6,12 +6,30 @@
   <component name="ChangeListManager">
     <list default="true" id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/92c0d3f7-94da-4aeb-8496-655c5e0f7c92-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/94eb1b91-0d65-4a74-b9c9-15de65da8d5b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/CreateTaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/PageObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/CreateTaskPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,42 +69,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;JUnit.CreatedBugTest.LoginValid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CrudTaskTest.CreatedTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CrudTaskTest.LoginValid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CrudTaskTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CrudTaskTest.test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantis.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.LoginBackground.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.LoginInvalid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.LoginValid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.NotAutentication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.NotAuthentication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginMantisTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginTest.LoginInvalid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginTest.LoginValid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.createTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.newRegistrationTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.newRegistrationTaskInvalid.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskTest.newRegistrationTaskValid.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.LoginMantisTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.ReportissueTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2/src/test/java/mantis/prova/base2/com/br&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.CreatedBugTest.LoginValid.executor": "Run",
+    "JUnit.CrudTaskTest.CreatedTask.executor": "Run",
+    "JUnit.CrudTaskTest.LoginValid.executor": "Run",
+    "JUnit.CrudTaskTest.executor": "Run",
+    "JUnit.CrudTaskTest.test.executor": "Run",
+    "JUnit.LoginMantis.executor": "Run",
+    "JUnit.LoginMantisTest.LoginBackground.executor": "Run",
+    "JUnit.LoginMantisTest.LoginInvalid.executor": "Run",
+    "JUnit.LoginMantisTest.LoginValid.executor": "Run",
+    "JUnit.LoginMantisTest.NotAutentication.executor": "Run",
+    "JUnit.LoginMantisTest.NotAuthentication.executor": "Run",
+    "JUnit.LoginMantisTest.executor": "Run",
+    "JUnit.LoginTest.LoginInvalid.executor": "Run",
+    "JUnit.LoginTest.LoginValid.executor": "Run",
+    "JUnit.LoginTest.executor": "Run",
+    "JUnit.TaskTest.createTask.executor": "Run",
+    "JUnit.TaskTest.executor": "Run",
+    "JUnit.TaskTest.newRegistrationTask.executor": "Run",
+    "JUnit.TaskTest.newRegistrationTaskInvalid.executor": "Run",
+    "JUnit.TaskTest.newRegistrationTaskValid.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.LoginMantisTest.executor": "Run",
+    "TestNG.ReportissueTest.executor": "Run",
+    "git-widget-placeholder": "feature-new-03",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2/src/test/java/mantis/prova/base2/com/br",
+    "last_opened_file_path": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="mantis.login.task" />
