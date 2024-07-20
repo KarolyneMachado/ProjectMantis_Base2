@@ -1,0 +1,6 @@
+mantis/create/task/TaskTest.class
+mantis/login/LoginTest.class
+mantis/create/task/CreateTaskPage.class
+mantis/login/LoginPage.class
+mantis/PageObject.class
+mantis/create/task/TaskPage.class
