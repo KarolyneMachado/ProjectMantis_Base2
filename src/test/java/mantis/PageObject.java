@@ -20,5 +20,4 @@ public class PageObject {
     public  void close(){
         this.driver.quit();
     }
-
 }
