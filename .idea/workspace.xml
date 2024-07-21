@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-    &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;KarolyneMachado&quot;
-    }
-    }</component>
-  <component name="GithubPullRequestsUISettings">{
-    &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:KarolyneMachado/ProjectMantis_Base2.git&quot;,
-    &quot;accountId&quot;: &quot;fd030024-8127-4950-92a2-cf055b57ba38&quot;
-    }
-    }</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KarolyneMachado"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:KarolyneMachado/ProjectMantis_Base2.git",
+    "accountId": "fd030024-8127-4950-92a2-cf055b57ba38"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 4
     }</component>
@@ -71,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.LoginMantisTest.executor": "Run",
     "TestNG.ReportissueTest.executor": "Run",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2/src/test/java/mantis/prova/base2/com/br",
     "last_opened_file_path": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2",
@@ -104,7 +105,7 @@
       <recent name="mantis.login.task" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginMantisTest">
+  <component name="RunManager">
     <configuration name="LoginMantisTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="ProjectMantis" />
       <extension name="coverage">
