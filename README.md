@@ -30,10 +30,10 @@ mvn clean test
 
 - Gera um relatório HTML dos resultados dos testes, salvo em allure-report:
  ```xml
- allure generate --clean allure-results -o allure-report
+ allure generate --clean target/allure-results -o target/allure-report
  ```
 
 - Inicia um servidor local para visualizar o relatório Allure no navegador:
  ```xml
-allure serve allure-results
+allure serve target/allure-results
  ```
