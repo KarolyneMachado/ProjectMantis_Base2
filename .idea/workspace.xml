@@ -5,26 +5,114 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/193d75ea5ce7449a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/260aaf96e0ccf2f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/2c74927c4860cd0a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6ce1c92242bf5b7c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/6f4505afd7fc577c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/bc9a83870bb7be3a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/be3d64eec59f5e6e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/efe07ad503a70c83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/f4b3cb4a135f0570.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fa6af6092aa09206.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fdd0d07d74b46326.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/fe14abab43eec174.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05c055a4-6604-4e46-9bcf-ee970b5a74fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/07bc8cc8-af98-4ab1-a1c3-feacfbb52121-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09dee42b-a1c3-4033-a9ef-7f37e1ca33d1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/10deb9fd-7324-4be9-a3d0-6d112cdd4335-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c53cf7f-e59b-4759-9f90-3de4ffe5788a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1eef20ca-b7cf-45e4-86fe-b118c611046b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1fa64317-3fd5-4500-ba4a-198ce125c4e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/22031552-beb9-4cce-8d5e-e3cf755a0dee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/305fd5a0-4d0c-4ccf-a459-b5c8720fa6a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/33aca182-6df4-40d3-8316-d04db908b0bc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36cf9da1-ddda-4330-beed-2c6d6155057d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/373e289a-aa27-45c6-8e24-c02f08bbe82e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/383be37a-2589-45c1-bc6b-035c02413503-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a73f103-4891-405b-97fa-455276a6ed68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3e1d45f7-033d-44c2-8520-81c3df86585d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4220bff5-557e-45c6-9be1-aefd32b41c14-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42a581d5-1919-4188-bd65-582851382918-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4b9a2843-4e24-45a2-a5ec-380e10e23653-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4ca86ff6-71e6-402d-ad81-6f3020c6b327-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4eb2f587-d4ab-4cf3-92fc-262ed040eb75-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58895988-3de0-4b83-919c-7b1d3803ef5f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b537ca4-d3d4-49a9-a8f4-7fe432cf06dd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7290c57b-b31d-4a58-b839-bea00cd98831-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/765f6418-33ee-4605-b497-c76b06153d4a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7dc8ca73-2a66-4b73-b042-fa167ac889b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e6b282c-6116-4094-9a2f-f44eac55fdf1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f9cdea0-dcd8-4e88-b8bd-3fdbcf7e9a23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/884da099-cff2-4d1f-8edd-f91fd2a9eb23-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8c301b93-ad5b-4599-918c-3004b1408377-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/90ab0b80-dcaf-4e3d-af6a-d37d8cce10cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a02178e6-5e72-4c51-931a-be5ee86bc098-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a2d4d6a8-3c79-4234-9025-6288a37d932e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ab15dce1-8294-4590-94e9-eaa55402c866-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac0298b1-ebfa-4613-88a8-4f21d1558dc3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b22f7fc0-130a-4316-a91f-3eb48ab867b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbc81a83-ca92-4beb-9366-fc7ff0239277-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be8aa24a-e368-43ce-a21b-4c83e2c3627c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c937e343-00f5-4260-bfde-f938bc30e536-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9e6d541-f700-4815-a815-f80fc54db702-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cdcf2a92-d326-47d4-ac3e-378ba0b37ca3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce337654-22fd-4848-bf9c-733e031ef194-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d350e75b-b582-41a1-97c7-e7f1165cb4fa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6fb48f0-f06c-4187-a131-456811544e0a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d90d4bb4-a910-402c-987a-d14a1c42f2a9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da1c7bb1-1cab-4fd9-999f-4cb05c2ac260-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f345af34-35a6-473b-b746-88f5de32353b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f39a0c4f-e82e-4326-a4d8-e8c7799e8b53-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f65f3ff1-8e18-4cbe-bac6-37b09d1751a3-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-=======
-
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/create/task/CreateTaskPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/CreateTaskPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginTest.class" beforeDir="false" />
-
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-
->>>>>>> 50ce005e51af18608f17b2b8cd39ba3093a0c2ea
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/create/task/CreateTaskPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/CreateTaskPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,36 +129,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-
   <component name="GitHubPullRequestSearchHistory">{
-    &quot;lastFilter&quot;: {
+  &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;KarolyneMachado&quot;
-    }
-    }
-  </component>
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">{
-    &quot;selectedUrlAndAccountId&quot;: {
+  &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:KarolyneMachado/ProjectMantis_Base2.git&quot;,
     &quot;accountId&quot;: &quot;fd030024-8127-4950-92a2-cf055b57ba38&quot;
-    }
-    }</component>
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
-  
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KarolyneMachado"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:KarolyneMachado/ProjectMantis_Base2.git",
-    "accountId": "fd030024-8127-4950-92a2-cf055b57ba38"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 4
     }</component>
@@ -85,6 +158,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.CreateTaskTests.executor": "Run",
     "JUnit.CreatedBugTest.LoginValid.executor": "Run",
     "JUnit.CrudTaskTest.CreatedTask.executor": "Run",
     "JUnit.CrudTaskTest.LoginValid.executor": "Run",
@@ -106,13 +180,13 @@
     "JUnit.TaskTest.newRegistrationTask.executor": "Run",
     "JUnit.TaskTest.newRegistrationTaskInvalid.executor": "Run",
     "JUnit.TaskTest.newRegistrationTaskValid.executor": "Run",
+    "JUnit.TaskTests.executor": "Run",
+    "JUnit.TaskTests.newRegistrationTaskInvalid.executor": "Run",
+    "JUnit.TaskTests.newRegistrationTaskValid.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.LoginMantisTest.executor": "Run",
     "TestNG.ReportissueTest.executor": "Run",
-
     "git-widget-placeholder": "improvingCode",
-    "git-widget-placeholder": "main",
-
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2/src/test/java/mantis/prova/base2/com/br",
     "last_opened_file_path": "/Users/karolynemachadodasilva/Projects/Desafio tecnicos/ProjectMantis_Base2",
@@ -124,6 +198,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="mantis.create.task" />
       <recent name="mantis.login.task" />
       <recent name="mantis.prova.base2.com.br" />
     </key>
@@ -211,7 +286,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest.newRegistrationTaskInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskTests.newRegistrationTaskInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectMantis" />
       <extension name="coverage">
         <pattern>
@@ -220,14 +295,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="mantis.create.task" />
-      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTest" />
+      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTests" />
       <option name="METHOD_NAME" value="newRegistrationTaskInvalid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTest.newRegistrationTaskValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TaskTests.newRegistrationTaskValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectMantis" />
       <extension name="coverage">
         <pattern>
@@ -236,7 +311,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="mantis.create.task" />
-      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTest" />
+      <option name="MAIN_CLASS_NAME" value="mantis.create.task.TaskTests" />
       <option name="METHOD_NAME" value="newRegistrationTaskValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -245,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TaskTests.newRegistrationTaskValid" />
+        <item itemvalue="JUnit.TaskTests.newRegistrationTaskInvalid" />
         <item itemvalue="JUnit.LoginTests.LoginValid" />
         <item itemvalue="JUnit.LoginTests" />
         <item itemvalue="JUnit.TaskTest" />
-        <item itemvalue="JUnit.TaskTest.newRegistrationTaskInvalid" />
-        <item itemvalue="JUnit.TaskTest.newRegistrationTaskValid" />
       </list>
     </recent_temporary>
   </component>
@@ -294,5 +369,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
