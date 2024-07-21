@@ -22,7 +22,18 @@ Este projeto realiza automação de testes no sistema MantisBT utilizando Java e
    </dependency>
 
 ## Comandos report alure 
+
+- Limpa o projeto e executa todos os testes:
  ```xml
-1. mvn clean test 
-2. allure generate --clean allure-results -o allure-report
-3. allure serve allure-results
+mvn clean test
+ ```
+
+- Gera um relatório HTML dos resultados dos testes, salvo em allure-report:
+ ```xml
+ allure generate --clean allure-results -o allure-report
+ ```
+
+- Inicia um servidor local para visualizar o relatório Allure no navegador:
+ ```xml
+allure serve allure-results
+ ```
