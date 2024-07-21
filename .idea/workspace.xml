@@ -6,17 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="afeda48a-a599-4b74-abb3-4dd7ee90a388" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/create/task/TaskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mantis/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mantis/login/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/create/task/TaskTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mantis/login/LoginTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

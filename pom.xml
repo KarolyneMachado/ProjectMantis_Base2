@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -30,8 +29,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- TestNG optional, if necessary  -->
-
+        <!-- TestNG (opcional, se necessário) -->
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
@@ -39,20 +37,19 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- SLF4J Simple -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
             <version>1.7.36</version>
         </dependency>
 
-        <!-- Allure (Junit 5 plugin included) -->
-
+        <!-- Allure (Junit 5 plugin incluído) -->
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-junit5</artifactId>
             <version>2.20.0</version>
         </dependency>
-
     </dependencies>
 
     <build>
@@ -63,9 +60,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <systemPropertyVariables>
-                        <allure.results.directory>target/allure-results</allure.results.directory>
-                    </systemPropertyVariables>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
                 </configuration>
             </plugin>
 
@@ -82,7 +78,7 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
-                    <!-- Add plugin to serve in the report -->
+                    <!-- Adicione o plugin para servir o relatório -->
                     <execution>
                         <id>allure-serve</id>
                         <phase>verify</phase>
@@ -94,5 +90,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
