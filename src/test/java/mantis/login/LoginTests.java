@@ -4,8 +4,12 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
+import io.qameta.allure.*;
 
-public class LoginTest {
+@Epic("User admin")
+@Feature("User Login")
+
+public class LoginTests {
 
     private LoginPage pageOfLogin;
 
@@ -20,6 +24,9 @@ public class LoginTest {
     }
 
     @Test
+    @Story("Login with valid credentials")
+    @Severity(SeverityLevel.CRITICAL)
+    @Description("Test Description: Login with valid username and password.")
     public void LoginValid() {
         pageOfLogin.fillInUser("Karolyne_Silva");
         pageOfLogin.enter();
@@ -30,6 +37,9 @@ public class LoginTest {
     }
 
     @Test
+    @Story("Login with invalid credentials")
+    @Severity(SeverityLevel.MINOR)
+    @Description("Test Description: Login with invalid username and password.")
     public void LoginInvalid() {
         pageOfLogin.fillInUser("USER_INVALID");
         pageOfLogin.enter();

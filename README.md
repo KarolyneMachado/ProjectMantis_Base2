@@ -24,3 +24,8 @@ Este projeto realiza automação de testes no sistema MantisBT utilizando Java e
 # Exemplo de configuração
 webdriver.chrome.driver = path/to/chromedriver
 mantis.url = https://exemplo.com/mantis
+
+# Comandos report alure 
+1. mvn clean test 
+2. allure generate --clean allure-results -o allure-report
+3. allure serve allure-results
