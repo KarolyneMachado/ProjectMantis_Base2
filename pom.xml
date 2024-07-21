@@ -30,7 +30,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- TestNG (opcional, se necessário) -->
+        <!-- TestNG optional, if necessary  -->
 
         <dependency>
             <groupId>org.testng</groupId>
@@ -44,12 +44,15 @@
             <artifactId>slf4j-simple</artifactId>
             <version>1.7.36</version>
         </dependency>
-        <!-- Allure (Junit 5 plugin incluído) -->
+
+        <!-- Allure (Junit 5 plugin included) -->
+
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-junit5</artifactId>
-            <version>2.10.0</version>
+            <version>2.20.0</version>
         </dependency>
+
     </dependencies>
 
     <build>
@@ -60,7 +63,9 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <release>21</release>
+                    <systemPropertyVariables>
+                        <allure.results.directory>target/allure-results</allure.results.directory>
+                    </systemPropertyVariables>
                 </configuration>
             </plugin>
 
@@ -77,7 +82,7 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
-                    <!-- Adicione o plugin para servir o relatório -->
+                    <!-- Add plugin to serve in the report -->
                     <execution>
                         <id>allure-serve</id>
                         <phase>verify</phase>
