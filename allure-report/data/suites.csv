@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Test Description: successfully created bug report ","2848","newRegistrationTaskValid()","","Sat Jul 26 21:08:51 BRT 2025","broken","Sat Jul 26 21:08:54 BRT 2025","","mantis.create.task.TaskTests","mantis.create.task.TaskTests","newRegistrationTaskValid"
+"Test Description: Login with invalid username and password.","16762","LoginInvalid()","","Sat Jul 26 21:07:34 BRT 2025","passed","Sat Jul 26 21:07:51 BRT 2025","","mantis.login.LoginTests","mantis.login.LoginTests","LoginInvalid"
+"Test Description: Login with valid username and password.","15045","LoginValid()","","Sat Jul 26 21:07:19 BRT 2025","failed","Sat Jul 26 21:07:34 BRT 2025","","mantis.login.LoginTests","mantis.login.LoginTests","LoginValid"
+"Test Description: created unsuccessful bug report ","5499","newRegistrationTaskInvalid()","","Sat Jul 26 21:08:54 BRT 2025","broken","Sat Jul 26 21:08:59 BRT 2025","","mantis.create.task.TaskTests","mantis.create.task.TaskTests","newRegistrationTaskInvalid"

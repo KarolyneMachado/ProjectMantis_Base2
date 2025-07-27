@@ -1,0 +1,4 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"2","User admin","0","Create task","0","0","Created task","0"
+"0","User admin","0","User Login","1","0","Login with invalid credentials","0"
+"0","User admin","1","User Login","0","0","Login with valid credentials","0"

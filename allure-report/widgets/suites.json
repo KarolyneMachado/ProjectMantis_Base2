@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6f2c8527ec780911c069879802cf1c2a","name":"mantis.login.LoginTests","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"102b5d88b8c05b1f509abe4e3c3ef33f","name":"mantis.create.task.TaskTests","statistic":{"failed":0,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":2}}]}

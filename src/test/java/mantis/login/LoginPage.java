@@ -46,7 +46,7 @@ public class LoginPage extends PageObject {
     }
 
     public boolean sucessfulLogin() {
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        //WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         return driver.getCurrentUrl().contains("index.php");
     }
 }
